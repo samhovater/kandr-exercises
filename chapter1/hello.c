@@ -4,4 +4,6 @@
 int main()
 {
 	printf("Hello World!\n");
+
+	printf("testing backspace\b\b\b\b\n");
 }
